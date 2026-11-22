@@ -1,0 +1,4 @@
+field,unit,comparable,missing_in_purchase_file,missing_in_daily_file,max_absolute_difference
+mod_duration_prev,years,361,0,0,0.0
+yield_percent_prev,bp,361,0,0,0.0
+clean_price_prev,£ per £100 nominal,361,0,0,0.0
